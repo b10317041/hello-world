@@ -58,7 +58,7 @@ a {
   text-align: center;
   background-color: #159957;
   background-image:url(https://scontent.xx.fbcdn.net/v/t1.0-9/13507260_1101950159828473_1167767356254387859_n.jpg?oh=84a9747ef1d668031e2728819f6e234d&oe=57FF1955); }
-  background-repeat:repeat;
+  background-repeat:repeat-y;
   
 @media screen and (min-width: 64em) {
   .page-header {
