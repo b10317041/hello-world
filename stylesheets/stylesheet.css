@@ -58,7 +58,8 @@ a {
   text-align: center;
   background-color: #159957;
   background-image:url(https://scontent.xx.fbcdn.net/v/t1.0-9/13507260_1101950159828473_1167767356254387859_n.jpg?oh=84a9747ef1d668031e2728819f6e234d&oe=57FF1955); }
-
+  background-repeat:no-repeat;
+  
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
@@ -88,7 +89,7 @@ a {
     font-size: 1.75rem; } }
 
 .project-tagline {
-  margin-bottom: 0.5rem;
+  margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7; }
 
