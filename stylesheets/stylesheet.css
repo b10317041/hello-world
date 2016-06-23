@@ -61,8 +61,8 @@ a {
   height : 800px;
   background-image:url(https://c7.staticflickr.com/8/7206/27582749030_578e374897_k.jpg);
   background-repeat:no-repeat;
-   background-position: 0% 0%;
-  background-size:cover;
+  background-position: 0% 0%;
+  
 }
   
 @media screen and (min-width: 64em) {
